@@ -1,231 +1,220 @@
 {
-	"header": {
-		"titleMain": "PARK HYOEN AH",
-		"titleSub": "Junior web developer",
-		"titleInfo": "Build with User eXperience in mind,\nI started my career as a publisher (mark up engineer)\nBut I’m interested in new tech and ready to learn.",
-		"nav": [
-			"about",
-			"experience",
-			"portfolio"
-		]
-	},
-	"main": {
-		"about": {
-			"info": "경영학과 졸업 후, 마케팅 회사에 입사하여 마케터로서 커리어를 시작하였으나 웹 에이전시로 이직을 하면서 IT업계를 접한 것이 개발자로 전향하게 된 계기가 되었습니다.\n평소 디자인에 관심이 많아 디자인학과로 재입학하였는데 코딩 수업을 통해 코딩이 더 적성에 맞는다는 것을 알게 되었고, 유저들의 사용성을 고려하여 심미적으로 화면을 구현해 내는 프론트엔드 직군에 매력을 느껴 퇴사 후, 학원에서 프론트엔드 과정을 수료하였습니다.\n\n첫 회사는 NGO를 메인 클라이언트로 사업하는 웹 에이전시에서 토스, 라이나 등의 기업들의 프로젝트를 수행하며 경험을 쌓았고, 이후에는 Ebay Japan으로 이직하여 글로벌 서비스를 운영하는 경험을 쌓았습니다.\n\n회사의 특성상 실무에서 JS 프레임워크를 경험한 적은 없지만 동료들과의 스터디를 했으며 트렌드를 따라가기 위해 노력하는 Junior engineer 박현아입니다.",
-			"list": [
-				"HTML, CSS등의 W3C 웹 표준에 대한 이해",
-				"웹 접근성에 대한 이해",
-				"Cross-Browsing에 대한 이해",
-				"반응형, 적응형 프로젝트 개발 경험",
-				"EJS, Haml, Bootstrap을 이용한 프로젝트 개발 경험",
-				"CSS Preprocessor(SCSS, PCSS)를 이용한 프로젝트 개발 경험",
-				"Webpack, Gulp를 이용한 프로젝트 개발 경험",
-				"GitHub으로 프로젝트 협업 경험",
-				"React.js에 대한 기본적인 이해",
-				"TypeScript에 대한 기본적인 이해",
-				"기획, 디자인 경험이 있는 개발자로서 원활한 커뮤니케이션 및 협업 능력",
-				"Figma, Zeplin, Photoshop, Illustrator 툴 사용 경험"
-			]
-		},
-		"experience": {
-			"list": [
-				{
-					"company": "eBay Japan",
-					"period": "UI/UX publisher 2021 - 2024",
-					"position": "Junior, UI/UX engineer team",
-					"info": "주로 Qoo10 Japan 백오피스의 Front 코드 설계 및 개발을 담당하였습니다. PO, 디자이너와 협업하며 스테이크 홀더가 쾌적한 환경에서 서비스를 사용할 수 있도록 개선하였습니다.\n그 외에도 Qoo10내에서 진행되는 다양한 프로모션 및 페이지 구현에 참여하였습니다."
-				},
-				{
-					"company": "Slowalk",
-					"period": "publisher 2019 - 2020",
-					"position": "Junior, Front-end team",
-					"info": "처음 입사했을 때 수습 기간 동안 좋은 평가를 받아 곧바로 라이나에서 운영하는 '전성기 재단 사이트 통합 리뉴얼 프로젝트'에서 서브 개발자로 투입하여 프로젝트를 성공적으로 마무리한 후 유지 보수 업무까지 담당하였습니다.\n라이나 프로젝트 이후에도 크고 작은 프로젝트에서 메인 개발자 역할을 맡으며 경험을 쌓았습니다."
-				},
-				{
-					"company": "E-wide plus",
-					"period": "Planning / Marketing 2011 - 2017",
-					"position": "Deputy section chief, Marketing team",
-					"info": ""
-				},
-				{
-					"company": "G2B holdings",
-					"period": "Marketing 2010 - 2011",
-					"position": "Junior, Marketing team",
-					"info": ""
-				}
-			]
-		},
-		"portfolio": {
-			"list": [
-				{
-					"closed": false,
-					"permission": false,
-					"url": "https://www.qoo10.jp",
-					"imgSrc": "./images/img_project-qoo10.png",
-					"imgAlt": "Qoo10 Japan PC 웹사이트",
-					"title": "Qoo10 Japan PC 웹사이트 운영",
-					"period": "2021.01 - 2024.02",
-					"skill": [
-						"EJS",
-						"PCSS",
-						"Javascript"
-					]
-				},
-				{
-					"closed": false,
-					"permission": false,
-					"url": "https://m.qoo10.jp",
-					"imgSrc": "./images/img_project-mqoo10.png",
-					"imgAlt": "Qoo10 Japan 모바일",
-					"title": "Qoo10 Japan 모바일 웹, App 운영",
-					"period": "2021.01 - 2024.02",
-					"skill": [
-						"EJS",
-						"PCSS",
-						"Javascript"
-					]
-				},
-				{
-					"closed": true,
-					"permission": true,
-					"url": "https://qsm.qoo10.jp",
-					"imgSrc": "./images/img_project-qsm.png",
-					"imgAlt": "QSM(Qoo10 Sales Manager)",
-					"title": "QSM(Qoo10 Sales Manager) 웹사이트 운영",
-					"period": "2021.01 - 2024.02",
-					"skill": [
-						"EJS",
-						"PCSS",
-						"Javascript"
-					]
-				},
-				{
-					"closed": true,
-					"permission": false,
-					"url": "https://www.futureslab.kr",
-					"imgSrc": "./images/img_project-shinhan.png",
-					"imgAlt": "신한금융그룹 신한퓨처스랩",
-					"title": "신한금융그룹 신한퓨처스랩 커뮤니티 웹사이트 구축 (웹서비스 종료)",
-					"period": "2020.05 - 2020.12",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"jQuery"
-					]
-				},
-				{
-					"closed": false,
-					"permission": false,
-					"url": "https://blog.toss.im",
-					"imgSrc": "./images/img_project-toss.png",
-					"imgAlt": "토스 블로그(토스피드)",
-					"title": "토스 블로그(토스피드) 개편",
-					"period": "2020.04 - 2020.06",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"Javascript"
-					]
-				},
-				{
-					"closed": true,
-					"permission": false,
-					"url": "https://hiconcept.kr",
-					"imgSrc": "./images/img_project-hiconcept.png",
-					"imgAlt": "임팩트스테이션 시공플랫폼",
-					"title": "임팩트스테이션 시공플랫폼 웹사이트 구축 (웹서비스 종료)",
-					"period": "2020.03 - 2020.04",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"jQuery"
-					]
-				},
-				{
-					"closed": true,
-					"permission": false,
-					"url": "https://thinkdong.com",
-					"imgSrc": "./images/img_project-thinkdong.png",
-					"imgAlt": "띵동연구소",
-					"title": "띵동연구소 웹사이트 구축 (웹서비스 종료)",
-					"period": "2020.02 - 2020.03",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"jQuery"
-					]
-				},
-				{
-					"closed": false,
-					"permission": false,
-					"url": "https://21erick.org",
-					"imgSrc": "./images/img_project-kyobasa.png",
-					"imgAlt": "교육을 바꾸는 사람들",
-					"title": "교육을 바꾸는 사람들 웹사이트 개편",
-					"period": "2020.01 - 2020.04",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"jQuery"
-					]
-				},
-				{
-					"closed": true,
-					"permission": false,
-					"url": "https://playthat.me",
-					"imgSrc": "./images/img_project-playthat.png",
-					"imgAlt": "플레이댓",
-					"title": "플레이댓 웹사이트 개편 (웹서비스 종료)",
-					"period": "2019.09 - 2020.01",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"jQuery"
-					]
-				},
-				{
-					"closed": true,
-					"permission": false,
-					"url": "https://surc.or.kr",
-					"imgSrc": "./images/img_project-surc.png",
-					"imgAlt": "서울특별시 도시재생지원센터",
-					"title": "서울특별시 도시재생지원센터 웹사이트 운영 (웹서비스 종료)",
-					"period": "2019.07 - 2020.06",
-					"skill": [
-						"Haml",
-						"SCSS",
-						"jQuery"
-					]
-				},
-				{
-					"closed": false,
-					"permission": false,
-					"url": "https://www.junsungki.com",
-					"imgSrc": "./images/img_project-lina.png",
-					"imgAlt": "전성기서비스",
-					"title": "라이나전성기재단 플랫폼 통합 구축/운영 (전성기서비스)",
-					"period": "2019.03 - 2019.09",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"jQuery"
-					]
-				},
-				{
-					"closed": false,
-					"permission": false,
-					"url": "https://www.junsungki.com/foundation/index.do",
-					"imgSrc": "./images/img_project-lina2.png",
-					"imgAlt": "전성기재단",
-					"title": "라이나전성기재단 플랫폼 통합 구축/운영 (전성기재단)",
-					"period": "2019.03 - 2019.09",
-					"skill": [
-						"HTML",
-						"SCSS",
-						"jQuery"
-					]
-				}
-			]
-		}
-	}
+  "header": {
+    "titleMain": "PARK HYOEN AH",
+    "titleSub": "Junior web developer",
+    "titleInfo": "Build with User eXperience in mind,\nI started my career as a publisher (mark up engineer)\nBut I’m interested in new tech and ready to learn.",
+    "nav": ["about", "experience", "portfolio"]
+  },
+  "main": {
+    "about": {
+      "info": "기획, 디자인, 퍼블리싱 경험을 바탕으로 사용자 중심의 UI/UX를 개발하는 프론트엔드 개발자 박현아입니다.\nIT업계에서 퍼블리셔로 5년간 웹 에이전시 및 글로벌 커머스 플랫폼(Qoo10 Japan)의 실무 프로젝트와 인하우스 운영 경험을 쌓았습니다.\n최근에는 React, Typescript 기반의 토이 프로젝트를 수행하면서 본격적으로 프론트엔드 개발자로 커리어를 전환 중이며, 사용자 관점을 이해하고 협업에 능한 개발자로 성장하고 있습니다.",
+      "list": [
+        "React, TypeScript 기반의 웹 애플리케이션 개발",
+        "Zustand, TanStack Query를 활용한 상태 관리",
+        "Styled-Components, Tailwind CSS를 이용한 스타일링",
+        "Webpack, Gulp, Vite를 활용한 프로젝트 빌드 경험",
+        "Firebase 및 Supabase를 활용한 데이터베이스 설계 및 RESTful API 통신",
+        "Playwright를 이용한 E2E 테스트 코드 작성",
+        "HTML, CSS등의 W3C 웹 표준에 대한 이해",
+        "웹 접근성 및 크로스 브라우징에 대한 이해",
+        "반응형 및 적응형 웹 개발 경험",
+        "EJS, Haml, Bootstrap을 이용한 프로젝트 개발 경험",
+        "CSS Preprocessor(SCSS, PCSS)를 이용한 프로젝트 개발 경험",
+        "GitHub를 활용한 협업 및 버전 관리 경험",
+        "기획 및 디자인 경험을 바탕으로 한 원활한 커뮤니케이션 능력",
+        "Figma, Zeplin, Photoshop, Illustrator 디자인 툴 사용 경험"
+      ]
+    },
+    "experience": {
+      "list": [
+        {
+          "company": "eBay Japan",
+          "period": "UI/UX publisher 2021 - 2024",
+          "position": "Junior, UI/UX engineer team",
+          "info": "주로 Qoo10 Japan 백오피스의 Front 코드 설계 및 개발을 담당하였습니다. PO, 디자이너와 협업하며 스테이크 홀더가 쾌적한 환경에서 서비스를 사용할 수 있도록 개선하였습니다.\n그 외에도 Qoo10내에서 진행되는 다양한 프로모션 및 페이지 구현에 참여하였습니다."
+        },
+        {
+          "company": "Slowalk",
+          "period": "publisher 2019 - 2020",
+          "position": "Junior, Front-end team",
+          "info": "처음 입사했을 때 수습 기간 동안 좋은 평가를 받아 곧바로 라이나에서 운영하는 '전성기 재단 사이트 통합 리뉴얼 프로젝트'에서 서브 개발자로 투입하여 프로젝트를 성공적으로 마무리한 후 유지 보수 업무까지 담당하였습니다.\n라이나 프로젝트 이후에도 크고 작은 프로젝트에서 메인 개발자 역할을 맡으며 경험을 쌓았습니다."
+        },
+        {
+          "company": "E-wide plus",
+          "period": "Planning / Marketing 2011 - 2017",
+          "position": "Deputy section chief, Marketing team",
+          "info": ""
+        },
+        {
+          "company": "G2B holdings",
+          "period": "Marketing 2010 - 2011",
+          "position": "Junior, Marketing team",
+          "info": ""
+        }
+      ]
+    },
+    "portfolio": {
+      "list": [
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://github.com/pha1155/rePlay",
+          "imgSrc": "./images/img_project-replay.png",
+          "imgAlt": "rePlay",
+          "title": "[Toy] 영상 공유 SNS 플랫폼",
+          "period": "2025.03 - 2025.04",
+          "skill": [
+            "React",
+            "Typescript",
+            "Zustand",
+            "TanStack Query",
+            "Tailwind CSS",
+            "Axios",
+            "Supabase",
+            "Playwright"
+          ]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://github.com/pha1155/sweetTen",
+          "imgSrc": "./images/img_project-sweetten.png",
+          "imgAlt": "sweetTen",
+          "title": "[Toy] 급여 및 업무 관리 플랫폼",
+          "period": "2025.02 - 2025.03",
+          "skill": ["React", "Styled-Component", "Redux", "Firebase"]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://github.com/pha1155/ppangGeut",
+          "imgSrc": "./images/img_project-ppanggeut.png",
+          "imgAlt": "ppangGeut",
+          "title": "[Toy] 인트라넷 서비스 개발",
+          "period": "2025.01 - 2025.02",
+          "skill": ["HTML", "CSS", "Javascript", "Axios"]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://www.qoo10.jp",
+          "imgSrc": "./images/img_project-qoo10.png",
+          "imgAlt": "Qoo10 Japan PC 웹사이트",
+          "title": "Qoo10 Japan PC 웹사이트 운영",
+          "period": "2021.01 - 2024.02",
+          "skill": ["EJS", "PCSS", "Javascript"]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://m.qoo10.jp",
+          "imgSrc": "./images/img_project-mqoo10.png",
+          "imgAlt": "Qoo10 Japan 모바일",
+          "title": "Qoo10 Japan 모바일 웹, App 운영",
+          "period": "2021.01 - 2024.02",
+          "skill": ["EJS", "PCSS", "Javascript"]
+        },
+        {
+          "closed": true,
+          "permission": true,
+          "url": "https://qsm.qoo10.jp",
+          "imgSrc": "./images/img_project-qsm.png",
+          "imgAlt": "QSM(Qoo10 Sales Manager)",
+          "title": "QSM(Qoo10 Sales Manager) 웹사이트 운영",
+          "period": "2021.01 - 2024.02",
+          "skill": ["EJS", "PCSS", "Javascript"]
+        },
+        {
+          "closed": true,
+          "permission": false,
+          "url": "https://www.futureslab.kr",
+          "imgSrc": "./images/img_project-shinhan.png",
+          "imgAlt": "신한금융그룹 신한퓨처스랩",
+          "title": "신한금융그룹 신한퓨처스랩 커뮤니티 웹사이트 구축 (웹서비스 종료)",
+          "period": "2020.05 - 2020.12",
+          "skill": ["HTML", "SCSS", "jQuery"]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://blog.toss.im",
+          "imgSrc": "./images/img_project-toss.png",
+          "imgAlt": "토스 블로그(토스피드)",
+          "title": "토스 블로그(토스피드) 개편",
+          "period": "2020.04 - 2020.06",
+          "skill": ["HTML", "SCSS", "Javascript"]
+        },
+        {
+          "closed": true,
+          "permission": false,
+          "url": "https://hiconcept.kr",
+          "imgSrc": "./images/img_project-hiconcept.png",
+          "imgAlt": "임팩트스테이션 시공플랫폼",
+          "title": "임팩트스테이션 시공플랫폼 웹사이트 구축 (웹서비스 종료)",
+          "period": "2020.03 - 2020.04",
+          "skill": ["HTML", "SCSS", "jQuery"]
+        },
+        {
+          "closed": true,
+          "permission": false,
+          "url": "https://thinkdong.com",
+          "imgSrc": "./images/img_project-thinkdong.png",
+          "imgAlt": "띵동연구소",
+          "title": "띵동연구소 웹사이트 구축 (웹서비스 종료)",
+          "period": "2020.02 - 2020.03",
+          "skill": ["HTML", "SCSS", "jQuery"]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://21erick.org",
+          "imgSrc": "./images/img_project-kyobasa.png",
+          "imgAlt": "교육을 바꾸는 사람들",
+          "title": "교육을 바꾸는 사람들 웹사이트 개편",
+          "period": "2020.01 - 2020.04",
+          "skill": ["HTML", "SCSS", "jQuery"]
+        },
+        {
+          "closed": true,
+          "permission": false,
+          "url": "https://playthat.me",
+          "imgSrc": "./images/img_project-playthat.png",
+          "imgAlt": "플레이댓",
+          "title": "플레이댓 웹사이트 개편 (웹서비스 종료)",
+          "period": "2019.09 - 2020.01",
+          "skill": ["HTML", "SCSS", "jQuery"]
+        },
+        {
+          "closed": true,
+          "permission": false,
+          "url": "https://surc.or.kr",
+          "imgSrc": "./images/img_project-surc.png",
+          "imgAlt": "서울특별시 도시재생지원센터",
+          "title": "서울특별시 도시재생지원센터 웹사이트 운영 (웹서비스 종료)",
+          "period": "2019.07 - 2020.06",
+          "skill": ["Haml", "SCSS", "jQuery"]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://www.junsungki.com",
+          "imgSrc": "./images/img_project-lina.png",
+          "imgAlt": "전성기서비스",
+          "title": "라이나전성기재단 플랫폼 통합 구축/운영 (전성기서비스)",
+          "period": "2019.03 - 2019.09",
+          "skill": ["HTML", "SCSS", "jQuery"]
+        },
+        {
+          "closed": false,
+          "permission": false,
+          "url": "https://www.junsungki.com/foundation/index.do",
+          "imgSrc": "./images/img_project-lina2.png",
+          "imgAlt": "전성기재단",
+          "title": "라이나전성기재단 플랫폼 통합 구축/운영 (전성기재단)",
+          "period": "2019.03 - 2019.09",
+          "skill": ["HTML", "SCSS", "jQuery"]
+        }
+      ]
+    }
+  }
 }

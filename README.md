@@ -2,7 +2,7 @@
 
 ## 배포 링크
 
-[프로젝트 바로가기](pha1155.github.io)
+[프로젝트 바로가기](https://pha1155.github.io/portfolio/)
 
 ## 설치
 
